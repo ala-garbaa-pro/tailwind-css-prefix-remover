@@ -1,5 +1,7 @@
 # tailwind-css-prefix-remover
 
+![Thumbnail](thumbnail.png)
+
 This repository provides a TypeScript function called `tcpr` (Tailwind CSS Prefix Remover) that helps remove duplicated prefixes from class names and ensures that only one class with a specific prefix is included in the final output.
 
 ## Example
